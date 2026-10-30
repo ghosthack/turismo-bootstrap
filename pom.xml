@@ -30,7 +30,7 @@
     <dependency>
       <groupId>io.github.ghosthack</groupId>
       <artifactId>turismo</artifactId>
-      <version>3.2.1</version>
+      <version>4.0.0</version>
     </dependency>
     <!-- Only needed for the servlet example (com.example.servlet) -->
     <dependency>
