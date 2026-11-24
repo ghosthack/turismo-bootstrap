@@ -4,7 +4,7 @@ A starter project for [turismo](https://github.com/ghosthack/turismo), the
 lightweight Sinatra/Express-style Java web framework. Clone it, rename the
 `com.example` package, and start adding routes.
 
-Requires Java 17+ and Maven.
+Requires JDK 21 or newer and Maven.
 
 ## Run
 
